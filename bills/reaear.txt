@@ -1,0 +1,5 @@
+Bill breakdown: 
+123:                      ...$144 
+asdasdasa:                ...$12 
+tip:                      ...$10
+total:                    ...$166.00
